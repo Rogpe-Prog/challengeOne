@@ -1,0 +1,5 @@
+package dev.heroes.desafio01.resources;
+
+public class ClientResource {
+
+}

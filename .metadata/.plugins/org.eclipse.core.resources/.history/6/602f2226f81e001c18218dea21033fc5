@@ -1,0 +1,5 @@
+package dev.heroes.desafio01.repositories;
+
+public class ClientRepository {
+
+}

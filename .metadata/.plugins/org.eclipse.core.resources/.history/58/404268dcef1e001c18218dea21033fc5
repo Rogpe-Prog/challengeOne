@@ -1,0 +1,20 @@
+package dev.heroes.desafio01.resources;
+
+import java.util.List;
+
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import dev.heroes.desafio01.entities.Client;
+
+@RestController
+@RequestMapping(value = "/clients")
+public class ClientResource {
+	
+	
+	public ResponseEntity<List<Client>> findAll() {
+		return null;
+	}
+
+}
