@@ -1,0 +1,16 @@
+package dev.heroes.desafio01.entities;
+
+import java.time.Instant;
+
+public class Client {
+	
+	private Long id;
+	private String name;
+	private String cpf;
+	private Double income;
+	private Instant birthData;
+	private Integer children;
+	
+	
+
+}
