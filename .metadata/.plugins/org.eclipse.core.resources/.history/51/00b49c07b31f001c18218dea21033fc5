@@ -1,0 +1,5 @@
+package dev.heroes.desafio01.exceptions;
+
+public class StandardError {
+
+}

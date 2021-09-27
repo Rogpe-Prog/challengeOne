@@ -1,0 +1,11 @@
+INSERT INTO tb_client (name, cpf, income, birth_Data, children) VALUES ('Assis Soberverg', '001.002.003.04', 2.400, '1994-07-20T10:30:00Z', 2)
+INSERT INTO tb_client (name, cpf, income, birth_Data, children) VALUES ('Magda Eleor', '011.022.033.44', 1.200, '1995-17-20T10:30:00Z', 2)
+INSERT INTO tb_client (name, cpf, income, birth_Data, children) VALUES ('Artys Souvits', '111.222.333.444', 3.000, '1988-27-20T10:30:00Z', 2)
+INSERT INTO tb_client (name, cpf, income, birth_Data, children) VALUES ('Xhang Asht', '100.200.300.40', 7.000, '2000-01-20T10:30:00Z', 2)
+INSERT INTO tb_client (name, cpf, income, birth_Data, children) VALUES ('Dupon Martis', '101.202.303.40', 12.500, '1977-22-20T10:30:00Z', 2)
+INSERT INTO tb_client (name, cpf, income, birth_Data, children) VALUES ('Arc Magnun', '102.202.303.44', 22.100, '1996-06-20T10:30:00Z', 2)
+INSERT INTO tb_client (name, cpf, income, birth_Data, children) VALUES ('Provença Ghos', '103.203.304.34', 5.500, '1999-12-20T10:30:00Z', 2)
+INSERT INTO tb_client (name, cpf, income, birth_Data, children) VALUES ('Sam Ohio', '401.502.603.74', 12.200, '2001-02-20T10:30:00Z', 2)
+INSERT INTO tb_client (name, cpf, income, birth_Data, children) VALUES ('Arthur Sean', '601.702.803.94', 6.000, '1961-08-20T10:30:00Z', 2)
+INSERT INTO tb_client (name, cpf, income, birth_Data, children) VALUES ('Bolton Jhon', '231.452.673.64', 4.000, '2003-02-20T10:30:00Z', 2)
+
